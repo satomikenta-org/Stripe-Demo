@@ -21,7 +21,7 @@
     "dotenv": "^8.1.0",
     "express": "^4.16.4",
     "helmet": "^3.20.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "sequelize": "^5.17.1",
     "stripe": "^7.8.0",
     "vue-stripe-elements-plus": "^0.3.0"
